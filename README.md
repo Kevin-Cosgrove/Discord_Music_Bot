@@ -1,1 +1,1 @@
-# Discord_Music_Bot
+# Discord_OpenAI_ChatBot
